@@ -536,7 +536,6 @@ aside .user-info {
 	display: flex;
 	margin-top: 30px;
 	width: 100%;
-	height: 360px;
 	font-size: .85rem;
 }
 
@@ -729,6 +728,10 @@ aside .user-info {
 }
 
 /* 左侧日历部分 */
+
+.others {
+	margin-bottom: 50px;
+}
 
 .others .calendar {
 	padding: 5px 10px;
